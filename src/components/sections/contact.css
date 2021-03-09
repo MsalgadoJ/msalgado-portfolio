@@ -1,0 +1,48 @@
+.contact {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-text {
+  width: 50%;
+}
+
+.contact-text p{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-info p{
+  font-size: 20px;
+  margin-bottom: 5px;
+
+}
+.contact-info p a{
+  color:black;
+
+}
+
+.info-effect {
+  color:black;
+  background: linear-gradient(to right, rgb(218, 23, 23), rgb(109, 18, 18) 50%, rgb(0, 0, 0) 50%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 100%;
+  background-position: 100%;
+  transition: background-position 275ms ease;
+}
+
+.info-effect:hover {
+  background-position: 0 100%;
+} 
+
+.contact-img {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.contact-img img {
+  max-width: 300px;
+}

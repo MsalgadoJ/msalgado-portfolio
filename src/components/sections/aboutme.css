@@ -1,0 +1,31 @@
+.about-me {
+  margin-top:50px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
+
+.about-text {
+  width:50%;
+}
+
+.about-img img{
+  align-self: center;
+}
+
+.about-img img{
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.about-text-desc {
+  font-size: 20px;
+  margin-top: 5px;
+  text-align:justify;
+
+}
+
+.ui.red.button.about-btn{
+  margin-top: 50px;
+  cursor: pointer;
+}
