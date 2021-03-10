@@ -19,8 +19,8 @@ const ContactMe = () => {
                     <p><Typing className="typing">Gracias por visitar!</Typing></p>
                 </div>
                 <div className="contact-info">
-                    <p><a href="https://www.linkedin.com/in/mayrarincones/"><i className="linkedin icon"></i><span className="info-effect">LinkedIn</span></a></p>
-                    <p><a href="https://github.com/MsalgadoJ"><i className="github icon"></i><span className="info-effect">GitHub</span></a></p>
+                    <p><a href="https://www.linkedin.com/in/mayrarincones/" target="_blank"><i className="linkedin icon"></i><span className="info-effect">LinkedIn</span></a></p>
+                    <p><a href="https://github.com/MsalgadoJ" target="_blank"><i className="github icon"></i><span className="info-effect">GitHub</span></a></p>
                     <p><i className="envelope outline icon"></i>E-mail: <span className="info-effect">mayra.rinconess@gmail.com</span></p>
                 </div>
             </div>
