@@ -15,7 +15,7 @@ const skillsArray = [
       img: html5
   },
   {
-      name:'CCS3',
+      name:'CSS3',
       img: css3
   },
   {
