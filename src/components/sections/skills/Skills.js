@@ -1,6 +1,6 @@
 import './skills.css';
 import React from 'react';
-import Title from '../Title';
+import Title from '../../title/Title';
 
 import Fade from 'react-reveal/Fade';
 

@@ -1,0 +1,19 @@
+footer {
+  align-self: flex-end;
+  border-top: 1px solid rgb(230, 228, 228);
+  margin-top: 50px;
+  min-height: 40px;
+}
+
+footer .footer-text {
+  text-align: center;
+  font-size: 12px;
+  margin: 10px 0px 10px 0px;
+  color: gray;
+}
+
+@media(min-width: 768px){
+  footer .footer-text {
+    font-size: 14px;
+  }
+}

@@ -1,9 +1,9 @@
 import './contact.css'
 import React from 'react';
-import Title from '../Title';
+import Title from '../../title/Title';
 import Typing from 'react-typing-animation';
 import Fade from 'react-reveal/Fade';
-import contact from '../../assets/img/contact.png'
+import contact from '../../../assets/img/contact.png'
 
 const ContactMe = () => {
     return (
@@ -13,6 +13,7 @@ const ContactMe = () => {
             <div className="contact">
                 <div className="contact-text">
                     <p>Espero te haya gustado este perfil. <br/>
+                    Si lo consideras, puedes contactárme a través de linkedIn o bien por correo eletrónico. <br/>
                     Estaré actualizando el sitio a medida que vayan saliendo nuevos proyectos y así demostrar lo que voy aprendiendo.
                     </p>
                     <p><Typing className="typing">Gracias por visitar!</Typing></p>

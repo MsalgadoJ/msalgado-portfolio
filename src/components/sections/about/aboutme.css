@@ -1,0 +1,51 @@
+.about-me {
+  margin-top:50px;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  /* flex-direction: row-reverse;
+  justify-content: space-around; */
+}
+
+.about-img img{
+  align-self: center;
+}
+
+.about-img img{
+  max-width: 200px;
+  border-radius: 10px;
+
+}
+
+.about-text-desc {
+  font-size: 15px;
+  margin-top: 5px;
+  text-align:justify;
+}
+
+.ui.red.button.about-btn{
+  margin-top: 30px;
+  cursor: pointer;
+  float: right;
+  margin-bottom: 20px;
+}
+
+@media(min-width: 768px){
+  .about-me {
+    flex-direction: row-reverse;
+    justify-content: space-around;
+  }
+  .about-text {
+    width:50%;
+  }
+
+  .ui.red.button.about-btn{
+    float: left;
+  }
+}
+
+@media(min-width: 1024px){
+  .about-img img{
+    max-width: 250px;
+  }
+}
