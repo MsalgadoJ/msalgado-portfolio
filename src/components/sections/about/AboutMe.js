@@ -18,7 +18,7 @@ const AboutMe = () => {
                 </div>
                 <div className="about-text">
                     <p><Typing className="typing">Desarrolladora Front-End</Typing></p>
-                    <p className="about-text-desc">Hola! Es placer tenerte por acá. <br/>
+                    <p className="about-text-desc">Hola! Es un placer tenerte por acá. <br/>
                     Como ya sabes, mi nombre es Mayra. Soy desarrolladora front-end. <br/>
                     En el 2013 me recibí como Ingeniero de Petróleo y ahora estoy buscando reconvertir mi perfil hacia este mundo fascinante, como es el desarrollo web. <br/>
                     Me considero una persona disciplinada, organizada, me gusta mucho aprender por lo que siempre estoy en búsqueda de nuevos retos. <br/>
