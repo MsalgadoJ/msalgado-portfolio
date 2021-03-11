@@ -1,8 +1,10 @@
 .ui.container {
   font-family: 'Cabin Condensed', sans-serif;
+
 }
 
 .content-wrapper {
   display: flex;
   flex-direction: column;
+  position: relative;
 }

@@ -21,8 +21,8 @@ const AboutMe = () => {
                     <p className="about-text-desc">Hola! Es placer tenerte por acá. <br/>
                     Como ya sabes, mi nombre es Mayra. Soy desarrolladora front-end. <br/>
                     En el 2013 me recibí como Ingeniero de Petróleo y ahora estoy buscando reconvertir mi perfil hacia este mundo fascinante, como es el desarrollo web. <br/>
-                    Me considero una persona disciplinada, organizada, además me gusta mucho aprender por lo que siempre estoy en búsqueda de nuevos retos. <br/>
-                    Además, me gustan muchos los idiomas. Hablo inglés y un poco de francés. <br/>
+                    Me considero una persona disciplinada, organizada, me gusta mucho aprender por lo que siempre estoy en búsqueda de nuevos retos. <br/>
+                    Además, me gustan mucho los idiomas. Hablo inglés y un poco de francés. <br/>
                     Amo la música, cantar, la naturaleza y los animales.
                     </p>
                     <Link to="/msalgado-portfolio/contact" className="ui red button about-btn">Charlemos!</Link>
