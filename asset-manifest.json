@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/msalgado-portfolio/static/css/main.03f0ff02.chunk.css",
-    "main.js": "/msalgado-portfolio/static/js/main.3417c9a6.chunk.js",
-    "main.js.map": "/msalgado-portfolio/static/js/main.3417c9a6.chunk.js.map",
-    "runtime-main.js": "/msalgado-portfolio/static/js/runtime-main.b3317d50.js",
-    "runtime-main.js.map": "/msalgado-portfolio/static/js/runtime-main.b3317d50.js.map",
-    "static/js/2.7e88e5c0.chunk.js": "/msalgado-portfolio/static/js/2.7e88e5c0.chunk.js",
-    "static/js/2.7e88e5c0.chunk.js.map": "/msalgado-portfolio/static/js/2.7e88e5c0.chunk.js.map",
+    "main.css": "/msalgado-portfolio/static/css/main.b568cf1a.chunk.css",
+    "main.js": "/msalgado-portfolio/static/js/main.06c212ec.chunk.js",
+    "main.js.map": "/msalgado-portfolio/static/js/main.06c212ec.chunk.js.map",
+    "runtime-main.js": "/msalgado-portfolio/static/js/runtime-main.687adf20.js",
+    "runtime-main.js.map": "/msalgado-portfolio/static/js/runtime-main.687adf20.js.map",
+    "static/js/2.6e27a371.chunk.js": "/msalgado-portfolio/static/js/2.6e27a371.chunk.js",
+    "static/js/2.6e27a371.chunk.js.map": "/msalgado-portfolio/static/js/2.6e27a371.chunk.js.map",
     "index.html": "/msalgado-portfolio/index.html",
-    "static/css/main.03f0ff02.chunk.css.map": "/msalgado-portfolio/static/css/main.03f0ff02.chunk.css.map",
-    "static/js/2.7e88e5c0.chunk.js.LICENSE.txt": "/msalgado-portfolio/static/js/2.7e88e5c0.chunk.js.LICENSE.txt",
+    "static/css/main.b568cf1a.chunk.css.map": "/msalgado-portfolio/static/css/main.b568cf1a.chunk.css.map",
+    "static/js/2.6e27a371.chunk.js.LICENSE.txt": "/msalgado-portfolio/static/js/2.6e27a371.chunk.js.LICENSE.txt",
     "static/media/about.8360bb58.jpg": "/msalgado-portfolio/static/media/about.8360bb58.jpg",
     "static/media/contact.52fda2bb.png": "/msalgado-portfolio/static/media/contact.52fda2bb.png",
     "static/media/ex.eb984af4.jpg": "/msalgado-portfolio/static/media/ex.eb984af4.jpg",
     "static/media/home.4f6e309b.png": "/msalgado-portfolio/static/media/home.4f6e309b.png",
     "static/media/mongodb.41634622.png": "/msalgado-portfolio/static/media/mongodb.41634622.png",
+    "static/media/natours.c4038bdb.png": "/msalgado-portfolio/static/media/natours.c4038bdb.png",
     "static/media/nodejs.cd0aa57b.webp": "/msalgado-portfolio/static/media/nodejs.cd0aa57b.webp",
-    "static/media/thotsolutions.faea2516.png": "/msalgado-portfolio/static/media/thotsolutions.faea2516.png",
     "static/media/videosearchapp.36ce89bd.png": "/msalgado-portfolio/static/media/videosearchapp.36ce89bd.png",
     "static/media/weatherapp.bac7b503.png": "/msalgado-portfolio/static/media/weatherapp.bac7b503.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3317d50.js",
-    "static/js/2.7e88e5c0.chunk.js",
-    "static/css/main.03f0ff02.chunk.css",
-    "static/js/main.3417c9a6.chunk.js"
+    "static/js/runtime-main.687adf20.js",
+    "static/js/2.6e27a371.chunk.js",
+    "static/css/main.b568cf1a.chunk.css",
+    "static/js/main.06c212ec.chunk.js"
   ]
 }
